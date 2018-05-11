@@ -18,3 +18,7 @@ function driversByName() {
 function totalRevenue() {
 
 }
+
+function averageRevenue() {
+
+}
